@@ -5,7 +5,7 @@
 1. Убедитесь, что у вас установлен Node.js.
 2. Клонируйте репозиторий:
    ```sh
-   git clone https://github.com/Tcyiu/USM-JS-TS-Inividual-1.git
+   git clone https://github.com/Tcyiu/USM-JS-TS-Inividual-2.git
    cd USM-JS-TS-Inividual-2
    ```
 3. Установите зависимости:
